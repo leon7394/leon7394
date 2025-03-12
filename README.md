@@ -1,16 +1,13 @@
-## Hi there 👋
+# Mostafa Ameri
 
-<!--
-**leon7394/leon7394** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Mostafa Ameri, a dedicated **Backend Developer** with a strong expertise in **Python** and **Django**. I specialize in building scalable, efficient, and maintainable backend systems.
 
-Here are some ideas to get you started:
+## 🔹 About Me
+- 💻 Backend Developer with a focus on **Django**
+- 🏗 Passionate about designing and developing **robust backend architectures**
+- 🚀 Always eager to learn and improve my skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- **Email:** [Leon7394@gmail.com](mailto:Leon7394@gmail.com)
+
+Let's build something great together! 🚀
