@@ -1,6 +1,6 @@
-# Mostafa Ameri
+# Mustafa Ameri
 
-👋 Hi, I'm Mostafa Ameri, a dedicated **Backend Developer** with a strong expertise in **Python** and **Django**. I specialize in building scalable, efficient, and maintainable backend systems.
+👋 Hi, I'm Mustafa Ameri, a dedicated **Backend Developer** with a strong expertise in **Python** and **Django**. I specialize in building scalable, efficient, and maintainable backend systems.
 
 ## 🔹 About Me
 - 💻 Backend Developer with a focus on **Django**
